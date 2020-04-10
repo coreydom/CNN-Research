@@ -1,0 +1,10 @@
+MNIST: 
+
+Relu: loss: 0.0172 - accuracy: 0.9938
+Sigmoid:  loss: 0.0179 - accuracy: 0.9944
+
+
+Fashion_MNIST 
+
+Relu: loss: 0.1159 - accuracy: 0.9570
+Sigmoid: loss: 0.1350 - accuracy: 0.9512
